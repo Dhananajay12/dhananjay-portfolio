@@ -42,7 +42,7 @@ useEffect(() => {
             learn from them.I'm also Doing Freelancing and i have Freelancing <br></br>
             expirence 
             </p>
-              <button className='button-cover simple-button zoom'>Know More</button>
+              
           </div>
 
           </div>

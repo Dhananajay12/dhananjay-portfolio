@@ -194,13 +194,13 @@ const Offer = () => {
                 <br></br>
 
                 <br></br>
-                <br></br>
+              
                 <div className='container-fluid mt-5 container2'>
                     <div className='row'>
 
                         <div className='col-md-6'>
                         <br></br>
-                        <br></br>
+                   
                             <div data-aos="fade-right">
 
                                 <h5 className='text-white gap'>
@@ -217,6 +217,7 @@ const Offer = () => {
 
                         </div>
                         <div className='col-md-6'>
+                        <br></br>
                             <div data-aos="fade-left">
 
 
@@ -551,7 +552,10 @@ const Offer = () => {
                             </div>
 
                         </div>
+              
+              
                         <div className='col-md-6'>
+                        <br></br>
                             <div data-aos="fade-left">
 
 
