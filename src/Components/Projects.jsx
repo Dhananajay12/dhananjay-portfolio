@@ -162,28 +162,45 @@ const Offer = () => {
               </div>
             </div>
             <div className="col-md-6">
-              <br></br>
               <div data-aos="fade-left">
                 <h5 className="text-white gap">
                   <span className="h1 color2 logo-letter">
                     {" "}
-                    The home and Maid Online service web app{" "}
+                    The home and Maid Online service Booking web app with
+                    payments gateway{" "}
                   </span>{" "}
-                  provides customers with one-day and monthly services. local
-                  maids, and other candidates who can register themselves on the
-                  website. Users can make payments online using a debit card and{" "}
-                  <span className="color2">UPI(Razorpay). </span>
-                  With <span className="color2"> RESTful API's </span> help, the
-                  admin can{" "}
-                  <span className="color2">
-                    {" "}
-                    (CURD) create, delete, read, and update{" "}
-                  </span>{" "}
-                  details of the products. The website is fully developed using{" "}
-                  <span className="color2">
-                    {" "}
-                    MERN (MongoDB, Express, React, NodeJS) and REDUX.
-                  </span>
+                  <ul>
+                    <li>
+                      {"->"} provides customers with one-day and monthly
+                      services.{" "}
+                    </li>
+                    <li>
+                      {"->"} local maids, and other candidates who can register
+                      themselves on the website.
+                    </li>
+                    <li>
+                      {"->"} Users can make payments online using a debit card
+                      and{" "}
+                    </li>
+
+                    <li>
+                      {"->"} <span className="color2">UPI(Razorpay). </span>
+                      With <span className="color2"> RESTful API's </span> help,
+                      the admin can{" "}
+                      <span className="color2">
+                        {" "}
+                        (CURD) create, delete, read, and update{" "}
+                      </span>{" "}
+                      details of the products.
+                    </li>
+                    <li>
+                      {"->"} The website is fully developed using{" "}
+                      <span className="color2">
+                        {" "}
+                        MERN (MongoDB, Express, React, NodeJS) and REDUX.
+                      </span>
+                    </li>
+                  </ul>
                 </h5>
                 <br></br>
                 <a
@@ -221,16 +238,31 @@ const Offer = () => {
                     {" "}
                     Raze E-comm is a clothing website{" "}
                   </span>
-                  where customers can buy clothes and jewelry I use{" "}
-                  <span className="color2">REDUX </span> to implement{" "}
-                  <span className="color2">ADD TO CART </span> functionality and
-                  fetch Products With{" "}
-                  <span className="color2"> RESTful API's </span>
-                  The website is fully developed using{" "}
-                  <span className="color2">
-                    {" "}
-                    HTML, CSS, Bootstrap, JavaScript,ReactJS And REDUX.
-                  </span>
+                  <br></br>
+                  <br></br>
+                  <ul>
+                    <li>
+                      {" "}
+                      {"->"} Raze E-comm is a scalable and optimize clothing
+                      website where customers can buy clothes and jewelry{" "}
+                    </li>
+                    <li>
+                      {" "}
+                      {"->"} I use
+                      <span className="color2"> REDUX </span> to implement{" "}
+                      <span className="color2">ADD TO CART </span> functionality
+                      and fetch Products With{" "}
+                      <span className="color2"> RESTful API's </span>
+                    </li>
+                    <li>
+                      {" "}
+                      {"->"} The website is fully developed using{" "}
+                      <span className="color2">
+                        {" "}
+                        HTML, CSS, Bootstrap, JavaScript,ReactJS And REDUX.
+                      </span>{" "}
+                    </li>
+                  </ul>
                 </h5>
                 <br></br>
                 <a
@@ -391,19 +423,27 @@ const Offer = () => {
                     {" "}
                     The maps travel app{" "}
                   </span>{" "}
-                  users can pin their favorite location on the map and add
-                  reviews, descriptions, and ratings. users can recommend their
-                  friends to visit the place.
-                  <span className="color2">
-                    {" "}
-                    Users can login and pin markers.{" "}
-                  </span>
-                  The website is fully developed using{" "}
-                  <span className="color2">
-                    {" "}
-                    MERN (MongoDB, Express, React, NodeJS) , MAPBOX MAP API and
-                    REDUX.
-                  </span>
+                  <br></br>
+                  <br></br>
+                  <ul>
+                    <li>
+                      {"->"} users can pin their favorite location on the map
+                      and add reviews, descriptions, and ratings.{" "}
+                    </li>
+                    <li>
+                      {"->"} users can recommend their friends to visit the
+                      place.
+                    </li>
+                    <li>
+                      {" "}
+                      {"->"} The website is fully developed using{" "}
+                      <span className="color2">
+                        {" "}
+                        MERN (MongoDB, Express, React, NodeJS) , MAPBOX MAP API
+                        and REDUX.
+                      </span>
+                    </li>
+                  </ul>
                 </h5>
                 <br></br>
                 {/* <a
@@ -440,18 +480,32 @@ const Offer = () => {
                     {" "}
                     MERN stack Real Time scalable chat Application{" "}
                   </span>{" "}
-                  users can chat with there firends and family in real time and
-                  users can create groups for fun chat with family and friend.
-                  all message are stores in cloud database.
-                  <span className="color2">
-                    {" "}
-                    scalable and real time chat with groups and individual.{" "}
-                  </span>
-                  The website is fully developed using{" "}
-                  <span className="color2">
-                    {" "}
-                    MERN (MongoDB, Express, React, NodeJS), Socket.io and REDUX.
-                  </span>
+                  <br></br>
+                  <br></br>
+                  <ul>
+                    <li>
+                      {"->"} users can chat with there firends and family in
+                      real time and users can create groups for fun chat with
+                      family and friend.{" "}
+                    </li>
+                    <li>{"->"} all message are stores in cloud database.</li>
+                    <li>
+                      {" "}
+                      {"->"}{" "}
+                      <span className="color2">
+                        {" "}
+                        scalable and real time chat with groups and individual.{" "}
+                      </span>
+                    </li>
+                    <li>
+                      The website is fully developed using{" "}
+                      <span className="color2">
+                        {" "}
+                        MERN (MongoDB, Express, React, NodeJS), Socket.io and
+                        REDUX.
+                      </span>
+                    </li>
+                  </ul>
                 </h5>
                 <br></br>
                 <a
@@ -568,24 +622,42 @@ const Offer = () => {
             </div>
             <div className="col-md-6">
               <br></br>
-              <br></br>
+
               <div data-aos="fade-right">
                 <h5 className="text-white gap">
                   <span className="h1 color2 logo-letter">
                     {" "}
-                    Memories Store website{" "}
+                    Memories Share Web App{" "}
                   </span>
-                  where User can stores and share memories. I use{" "}
-                  <span className="color2">ReactJS </span> to implement{" "}
-                  <span className="color2">responsive </span> functionality and
-                  fetch memories from the database With{" "}
-                  <span className="color2"> RESTful API's </span>
-                  The website is fully developed using{" "}
-                  <span className="color2">
-                    {" "}
-                    HTML, CSS, Bootstrap, JavaScript,ReactJS,Node, express,
-                    MongoDB atlas .
-                  </span>
+                  <br></br>
+                  <br></br>
+                  <ul>
+                    <li>{"->"} User can stores and share memories.</li>
+                    <li>
+                      {"->"} I use <span className="color2">ReactJS </span> to
+                      implement <span className="color2">responsive </span>{" "}
+                      functionality and fetch memories from the database With{" "}
+                      <span className="color2"> RESTful API's </span>
+                    </li>
+
+                    <li>
+                      {"->"} The website is fully developed using{" "}
+                      <span className="color2">
+                        {" "}
+                        MERN (MongoDB, Express, React, NodeJS), Socket.io and
+                        REDUX.
+                      </span>
+                    </li>
+                  </ul>
+                  <br></br>
+                  <a
+                    href="https://github.com/Dhananajay12/Memories-MERN-project"
+                    rel="noreferrer"
+                    target="_blank"
+                    className="simple-button zoom mx-1"
+                  >
+                    Website Code
+                  </a>
                 </h5>
                 <br></br>
               </div>
